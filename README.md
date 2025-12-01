@@ -1,4 +1,4 @@
-##Full Stack Application
+## Full Stack Application
 A modern full stack web application built with a robust backend and an intuitive frontend. This project demonstrates the integration of RESTful APIs, database connectivity, and a responsive user interface, suitable for scalable production environments.
 
 #### Features
