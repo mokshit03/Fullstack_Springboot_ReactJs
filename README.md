@@ -40,7 +40,7 @@ npm install
 
 Create a .env file in both the backend and frontend directories with necessary environment variables (e.g., database URI, API keys, JWT secret).
 
-#### - Running the Application
+## 3. Running the Application
 npm start
 
 #### - License
