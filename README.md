@@ -1,7 +1,7 @@
-## Full Stack Application
+## 1. Full Stack Application
 A modern full stack web application built with a robust backend and an intuitive frontend. This project demonstrates the integration of RESTful APIs, database connectivity, and a responsive user interface, suitable for scalable production environments.
 
-#### Features
+#### > Features
 
 User authentication and authorization
 CRUD operations for core resources
@@ -12,7 +12,7 @@ Environment-based configuration (development/production)
 Error handling and validation
 
 
-#### Tech Stack
+#### > Tech Stack
 
 Frontend: React / Angular / Vue (choose as appropriate)
 Backend: Node.js (Express) / Django / Spring Boot / . NET Core, etc.
@@ -23,29 +23,29 @@ API: RESTful (or GraphQL)
 Deployment: Docker, CI/CD pipelines (optional)
 
 
-## Getting Started
+## 2. Getting Started
 
-#### Prerequisites
+#### > Prerequisites
 
 Node.js & npm (or the relevant backend language/runtime)
 Database server (MongoDB, PostgreSQL, etc.)
 
-#### Installation
+#### > Installation
 
 Install backend dependencies:
 Install frontend dependencies:
 npm install
 
-#### Environment Variables
+#### > Environment Variables
 
 Create a .env file in both the backend and frontend directories with necessary environment variables (e.g., database URI, API keys, JWT secret).
 
-#### Running the Application
+#### > Running the Application
 npm start
 
-#### License
+#### > License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-#### Contact
+#### > Contact
 For questions or feedback, please contact - mokshit.bhandari03@gmail.com
 
