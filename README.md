@@ -43,18 +43,6 @@ Create a .env file in both the backend and frontend directories with necessary e
 #### Running the Application
 npm start
 
-The frontend typically runs on http://localhost:3000 and the backend on http://localhost:5000, unless configured otherwise.
-
-Folder Structure
-Unknownyour-repo/
-  ├── backend/
-  │   ├── src/
-  │   └── ...
-  ├── frontend/
-  │   ├── src/
-  │   └── ...
-  └── README.md
-
 #### License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
